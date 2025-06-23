@@ -1,0 +1,1 @@
+A demo project for building an octopus robot that brings together mechanical systems, reinforcement learning, and vision-language models, with the goal of validating the concept and exploring its commercial potential.
